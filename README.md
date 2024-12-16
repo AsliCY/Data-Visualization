@@ -48,7 +48,8 @@ The analysis uses the "Agriculture Dataset Karnataka" from Kaggle, which include
 1. Run the application:
 - python app.py
 
-2. Open your web browser and navigate to the provided URL (typically http://127.0.0.1:7860)
+2. Open your web browser and navigate to the provided public URL (typically https://[address].gradio.live)
+))
 
 3. Navigate through different tabs:
 - **Overview**: General insights and key findings
